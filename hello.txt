@@ -16,3 +16,4 @@ hello qiu! hello git!
 hello qiu! hello git!
 hello qiu! hello git!
 hello qiu! hello git!
+hello hot-fix
