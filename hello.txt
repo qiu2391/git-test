@@ -6,16 +6,4 @@ hello qiu! hello git!
 hello qiu! hello git!
 hello qiu! hello git!
 hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello qiu! hello git!
-hello master
-hello hot-fix
+hello qiu! hello git! clone
